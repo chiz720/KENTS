@@ -1,0 +1,921 @@
+age,sex,chest_pain,resting_sBP,cholesterol,resting_ECG,max_HR,exercise_Angina,exercise_ST_depression,ST_slope,heart_disease
+63,Male,typical angina,145,233,lv hypertrophy,150,absent,2.3,downsloping,absent
+67,Male,asymptomatic,160,286,lv hypertrophy,108,present,1.5,flat,present
+67,Male,asymptomatic,120,229,lv hypertrophy,129,present,2.6,flat,present
+37,Male,non-anginal,130,250,normal,187,absent,3.5,downsloping,absent
+41,Female,atypical angina,130,204,lv hypertrophy,172,absent,1.4,upsloping,absent
+56,Male,atypical angina,120,236,normal,178,absent,0.8,upsloping,absent
+62,Female,asymptomatic,140,268,lv hypertrophy,160,absent,3.6,downsloping,present
+57,Female,asymptomatic,120,354,normal,163,present,0.6,upsloping,absent
+63,Male,asymptomatic,130,254,lv hypertrophy,147,absent,1.4,flat,present
+53,Male,asymptomatic,140,203,lv hypertrophy,155,present,3.1,downsloping,present
+57,Male,asymptomatic,140,192,normal,148,absent,0.4,flat,absent
+56,Female,atypical angina,140,294,lv hypertrophy,153,absent,1.3,flat,absent
+56,Male,non-anginal,130,256,lv hypertrophy,142,present,0.6,flat,present
+44,Male,atypical angina,120,263,normal,173,absent,0,upsloping,absent
+52,Male,non-anginal,172,199,normal,162,absent,0.5,upsloping,absent
+57,Male,non-anginal,150,168,normal,174,absent,1.6,upsloping,absent
+48,Male,atypical angina,110,229,normal,168,absent,1,downsloping,present
+54,Male,asymptomatic,140,239,normal,160,absent,1.2,upsloping,absent
+48,Female,non-anginal,130,275,normal,139,absent,0.2,upsloping,absent
+49,Male,atypical angina,130,266,normal,171,absent,0.6,upsloping,absent
+64,Male,typical angina,110,211,lv hypertrophy,144,present,1.8,flat,absent
+58,Female,typical angina,150,283,lv hypertrophy,162,absent,1,upsloping,absent
+58,Male,atypical angina,120,284,lv hypertrophy,160,absent,1.8,flat,present
+58,Male,non-anginal,132,224,lv hypertrophy,173,absent,3.2,upsloping,present
+60,Male,asymptomatic,130,206,lv hypertrophy,132,present,2.4,flat,present
+50,Female,non-anginal,120,219,normal,158,absent,1.6,flat,absent
+58,Female,non-anginal,120,340,normal,172,absent,0,upsloping,absent
+66,Female,typical angina,150,226,normal,114,absent,2.6,downsloping,absent
+43,Male,asymptomatic,150,247,normal,171,absent,1.5,upsloping,absent
+40,Male,asymptomatic,110,167,lv hypertrophy,114,present,2,flat,present
+69,Female,typical angina,140,239,normal,151,absent,1.8,upsloping,absent
+60,Male,asymptomatic,117,230,normal,160,present,1.4,upsloping,present
+64,Male,non-anginal,140,335,normal,158,absent,0,upsloping,present
+59,Male,asymptomatic,135,234,normal,161,absent,0.5,flat,absent
+44,Male,non-anginal,130,233,normal,179,present,0.4,upsloping,absent
+42,Male,asymptomatic,140,226,normal,178,absent,0,upsloping,absent
+43,Male,asymptomatic,120,177,lv hypertrophy,120,present,2.5,flat,present
+57,Male,asymptomatic,150,276,lv hypertrophy,112,present,0.6,flat,present
+55,Male,asymptomatic,132,353,normal,132,present,1.2,flat,present
+61,Male,non-anginal,150,243,normal,137,present,1,flat,absent
+65,Female,asymptomatic,150,225,lv hypertrophy,114,absent,1,flat,present
+40,Male,typical angina,140,199,normal,178,present,1.4,upsloping,absent
+71,Female,atypical angina,160,302,normal,162,absent,0.4,upsloping,absent
+59,Male,non-anginal,150,212,normal,157,absent,1.6,upsloping,absent
+61,Female,asymptomatic,130,330,lv hypertrophy,169,absent,0,upsloping,present
+58,Male,non-anginal,112,230,lv hypertrophy,165,absent,2.5,flat,present
+51,Male,non-anginal,110,175,normal,123,absent,0.6,upsloping,absent
+50,Male,asymptomatic,150,243,lv hypertrophy,128,absent,2.6,flat,present
+65,Female,non-anginal,140,417,lv hypertrophy,157,absent,0.8,upsloping,absent
+53,Male,non-anginal,130,197,lv hypertrophy,152,absent,1.2,downsloping,absent
+41,Female,atypical angina,105,198,normal,168,absent,0,upsloping,absent
+65,Male,asymptomatic,120,177,normal,140,absent,0.4,upsloping,absent
+44,Male,asymptomatic,112,290,lv hypertrophy,153,absent,0,upsloping,present
+44,Male,atypical angina,130,219,lv hypertrophy,188,absent,0,upsloping,absent
+60,Male,asymptomatic,130,253,normal,144,present,1.4,upsloping,present
+54,Male,asymptomatic,124,266,lv hypertrophy,109,present,2.2,flat,present
+50,Male,non-anginal,140,233,normal,163,absent,0.6,flat,present
+41,Male,asymptomatic,110,172,lv hypertrophy,158,absent,0,upsloping,present
+54,Male,non-anginal,125,273,lv hypertrophy,152,absent,0.5,downsloping,absent
+51,Male,typical angina,125,213,lv hypertrophy,125,present,1.4,upsloping,absent
+51,Female,asymptomatic,130,305,normal,142,present,1.2,flat,present
+46,Female,non-anginal,142,177,lv hypertrophy,160,present,1.4,downsloping,absent
+58,Male,asymptomatic,128,216,lv hypertrophy,131,present,2.2,flat,present
+54,Female,non-anginal,135,304,normal,170,absent,0,upsloping,absent
+54,Male,asymptomatic,120,188,normal,113,absent,1.4,flat,present
+60,Male,asymptomatic,145,282,lv hypertrophy,142,present,2.8,flat,present
+60,Male,non-anginal,140,185,lv hypertrophy,155,absent,3,flat,present
+54,Male,non-anginal,150,232,lv hypertrophy,165,absent,1.6,upsloping,absent
+59,Male,asymptomatic,170,326,lv hypertrophy,140,present,3.4,downsloping,present
+46,Male,non-anginal,150,231,normal,147,absent,3.6,flat,present
+65,Female,non-anginal,155,269,normal,148,absent,0.8,upsloping,absent
+67,Male,asymptomatic,125,254,normal,163,absent,0.2,flat,present
+62,Male,asymptomatic,120,267,normal,99,present,1.8,flat,present
+65,Male,asymptomatic,110,248,lv hypertrophy,158,absent,0.6,upsloping,present
+44,Male,asymptomatic,110,197,lv hypertrophy,177,absent,0,upsloping,present
+65,Female,non-anginal,160,360,lv hypertrophy,151,absent,0.8,upsloping,absent
+60,Male,asymptomatic,125,258,lv hypertrophy,141,present,2.8,flat,present
+51,Female,non-anginal,140,308,lv hypertrophy,142,absent,1.5,upsloping,absent
+48,Male,atypical angina,130,245,lv hypertrophy,180,absent,0.2,flat,absent
+58,Male,asymptomatic,150,270,lv hypertrophy,111,present,0.8,upsloping,present
+45,Male,asymptomatic,104,208,lv hypertrophy,148,present,3,flat,absent
+53,Female,asymptomatic,130,264,lv hypertrophy,143,absent,0.4,flat,absent
+39,Male,non-anginal,140,321,lv hypertrophy,182,absent,0,upsloping,absent
+68,Male,non-anginal,180,274,lv hypertrophy,150,present,1.6,flat,present
+52,Male,atypical angina,120,325,normal,172,absent,0.2,upsloping,absent
+44,Male,non-anginal,140,235,lv hypertrophy,180,absent,0,upsloping,absent
+47,Male,non-anginal,138,257,lv hypertrophy,156,absent,0,upsloping,absent
+53,Female,non-anginal,128,216,lv hypertrophy,115,absent,0,upsloping,absent
+53,Female,asymptomatic,138,234,lv hypertrophy,160,absent,0,upsloping,absent
+51,Female,non-anginal,130,256,lv hypertrophy,149,absent,0.5,upsloping,absent
+66,Male,asymptomatic,120,302,lv hypertrophy,151,absent,0.4,flat,absent
+62,Female,asymptomatic,160,164,lv hypertrophy,145,absent,6.2,downsloping,present
+62,Male,non-anginal,130,231,normal,146,absent,1.8,flat,absent
+44,Female,non-anginal,108,141,normal,175,absent,0.6,flat,absent
+63,Female,non-anginal,135,252,lv hypertrophy,172,absent,0,upsloping,absent
+52,Male,asymptomatic,128,255,normal,161,present,0,upsloping,present
+59,Male,asymptomatic,110,239,lv hypertrophy,142,present,1.2,flat,present
+60,Female,asymptomatic,150,258,lv hypertrophy,157,absent,2.6,flat,present
+52,Male,atypical angina,134,201,normal,158,absent,0.8,upsloping,absent
+48,Male,asymptomatic,122,222,lv hypertrophy,186,absent,0,upsloping,absent
+45,Male,asymptomatic,115,260,lv hypertrophy,185,absent,0,upsloping,absent
+34,Male,typical angina,118,182,lv hypertrophy,174,absent,0,upsloping,absent
+57,Female,asymptomatic,128,303,lv hypertrophy,159,absent,0,upsloping,absent
+71,Female,non-anginal,110,265,lv hypertrophy,130,absent,0,upsloping,absent
+49,Male,non-anginal,120,188,normal,139,absent,2,flat,present
+54,Male,atypical angina,108,309,normal,156,absent,0,upsloping,absent
+59,Male,asymptomatic,140,177,normal,162,present,0,upsloping,present
+57,Male,non-anginal,128,229,lv hypertrophy,150,absent,0.4,flat,present
+61,Male,asymptomatic,120,260,normal,140,present,3.6,flat,present
+39,Male,asymptomatic,118,219,normal,140,absent,1.2,flat,present
+61,Female,asymptomatic,145,307,lv hypertrophy,146,present,1,flat,present
+56,Male,asymptomatic,125,249,lv hypertrophy,144,present,1.2,flat,present
+52,Male,typical angina,118,186,lv hypertrophy,190,absent,0,flat,absent
+43,Female,asymptomatic,132,341,lv hypertrophy,136,present,3,flat,present
+62,Female,non-anginal,130,263,normal,97,absent,1.2,flat,present
+41,Male,atypical angina,135,203,normal,132,absent,0,flat,absent
+58,Male,non-anginal,140,211,lv hypertrophy,165,absent,0,upsloping,absent
+35,Female,asymptomatic,138,183,normal,182,absent,1.4,upsloping,absent
+63,Male,asymptomatic,130,330,lv hypertrophy,132,present,1.8,upsloping,present
+65,Male,asymptomatic,135,254,lv hypertrophy,127,absent,2.8,flat,present
+48,Male,asymptomatic,130,256,lv hypertrophy,150,present,0,upsloping,present
+63,Female,asymptomatic,150,407,lv hypertrophy,154,absent,4,flat,present
+51,Male,non-anginal,100,222,normal,143,present,1.2,flat,absent
+55,Male,asymptomatic,140,217,normal,111,present,5.6,downsloping,present
+65,Male,typical angina,138,282,lv hypertrophy,174,absent,1.4,flat,present
+45,Female,atypical angina,130,234,lv hypertrophy,175,absent,0.6,flat,absent
+56,Female,asymptomatic,200,288,lv hypertrophy,133,present,4,downsloping,present
+54,Male,asymptomatic,110,239,normal,126,present,2.8,flat,present
+44,Male,atypical angina,120,220,normal,170,absent,0,upsloping,absent
+62,Female,asymptomatic,124,209,normal,163,absent,0,upsloping,absent
+54,Male,non-anginal,120,258,lv hypertrophy,147,absent,0.4,flat,absent
+51,Male,non-anginal,94,227,normal,154,present,0,upsloping,absent
+29,Male,atypical angina,130,204,lv hypertrophy,202,absent,0,upsloping,absent
+51,Male,asymptomatic,140,261,lv hypertrophy,186,present,0,upsloping,absent
+43,Female,non-anginal,122,213,normal,165,absent,0.2,flat,absent
+55,Female,atypical angina,135,250,lv hypertrophy,161,absent,1.4,flat,absent
+70,Male,asymptomatic,145,174,normal,125,present,2.6,downsloping,present
+62,Male,atypical angina,120,281,lv hypertrophy,103,absent,1.4,flat,present
+35,Male,asymptomatic,120,198,normal,130,present,1.6,flat,present
+51,Male,non-anginal,125,245,lv hypertrophy,166,absent,2.4,flat,absent
+59,Male,atypical angina,140,221,normal,164,present,0,upsloping,absent
+59,Male,typical angina,170,288,lv hypertrophy,159,absent,0.2,flat,present
+52,Male,atypical angina,128,205,normal,184,absent,0,upsloping,absent
+64,Male,non-anginal,125,309,normal,131,present,1.8,flat,present
+58,Male,non-anginal,105,240,lv hypertrophy,154,present,0.6,flat,absent
+47,Male,non-anginal,108,243,normal,152,absent,0,upsloping,present
+57,Male,asymptomatic,165,289,lv hypertrophy,124,absent,1,flat,present
+41,Male,non-anginal,112,250,normal,179,absent,0,upsloping,absent
+45,Male,atypical angina,128,308,lv hypertrophy,170,absent,0,upsloping,absent
+60,Female,non-anginal,102,318,normal,160,absent,0,upsloping,absent
+52,Male,typical angina,152,298,normal,178,absent,1.2,flat,absent
+42,Female,asymptomatic,102,265,lv hypertrophy,122,absent,0.6,flat,absent
+67,Female,non-anginal,115,564,lv hypertrophy,160,absent,1.6,flat,absent
+55,Male,asymptomatic,160,289,lv hypertrophy,145,present,0.8,flat,present
+64,Male,asymptomatic,120,246,lv hypertrophy,96,present,2.2,downsloping,present
+70,Male,asymptomatic,130,322,lv hypertrophy,109,absent,2.4,flat,present
+51,Male,asymptomatic,140,299,normal,173,present,1.6,upsloping,present
+58,Male,asymptomatic,125,300,lv hypertrophy,171,absent,0,upsloping,present
+60,Male,asymptomatic,140,293,lv hypertrophy,170,absent,1.2,flat,present
+68,Male,non-anginal,118,277,normal,151,absent,1,upsloping,absent
+46,Male,atypical angina,101,197,normal,156,absent,0,upsloping,absent
+77,Male,asymptomatic,125,304,lv hypertrophy,162,present,0,upsloping,present
+54,Female,non-anginal,110,214,normal,158,absent,1.6,flat,absent
+58,Female,asymptomatic,100,248,lv hypertrophy,122,absent,1,flat,absent
+48,Male,non-anginal,124,255,normal,175,absent,0,upsloping,absent
+57,Male,asymptomatic,132,207,normal,168,present,0,upsloping,absent
+52,Male,non-anginal,138,223,normal,169,absent,0,upsloping,absent
+54,Female,atypical angina,132,288,lv hypertrophy,159,present,0,upsloping,absent
+35,Male,asymptomatic,126,282,lv hypertrophy,156,present,0,upsloping,present
+45,Female,atypical angina,112,160,normal,138,absent,0,flat,absent
+70,Male,non-anginal,160,269,normal,112,present,2.9,flat,present
+53,Male,asymptomatic,142,226,lv hypertrophy,111,present,0,upsloping,absent
+59,Female,asymptomatic,174,249,normal,143,present,0,flat,present
+62,Female,asymptomatic,140,394,lv hypertrophy,157,absent,1.2,flat,absent
+64,Male,asymptomatic,145,212,lv hypertrophy,132,absent,2,flat,present
+57,Male,asymptomatic,152,274,normal,88,present,1.2,flat,present
+52,Male,asymptomatic,108,233,normal,147,absent,0.1,upsloping,absent
+56,Male,asymptomatic,132,184,lv hypertrophy,105,present,2.1,flat,present
+43,Male,non-anginal,130,315,normal,162,absent,1.9,upsloping,absent
+53,Male,non-anginal,130,246,lv hypertrophy,173,absent,0,upsloping,absent
+48,Male,asymptomatic,124,274,lv hypertrophy,166,absent,0.5,flat,present
+56,Female,asymptomatic,134,409,lv hypertrophy,150,present,1.9,flat,present
+42,Male,typical angina,148,244,lv hypertrophy,178,absent,0.8,upsloping,absent
+59,Male,typical angina,178,270,lv hypertrophy,145,absent,4.2,downsloping,absent
+60,Female,asymptomatic,158,305,lv hypertrophy,161,absent,0,upsloping,present
+63,Female,atypical angina,140,195,normal,179,absent,0,upsloping,absent
+42,Male,non-anginal,120,240,normal,194,absent,0.8,downsloping,absent
+66,Male,atypical angina,160,246,normal,120,present,0,flat,present
+54,Male,atypical angina,192,283,lv hypertrophy,195,absent,0,upsloping,present
+69,Male,non-anginal,140,254,lv hypertrophy,146,absent,2,flat,present
+50,Male,non-anginal,129,196,normal,163,absent,0,upsloping,absent
+51,Male,asymptomatic,140,298,normal,122,present,4.2,flat,present
+43,Male,asymptomatic,132,247,lv hypertrophy,143,present,0.1,flat,present
+62,Female,asymptomatic,138,294,normal,106,absent,1.9,flat,present
+68,Female,non-anginal,120,211,lv hypertrophy,115,absent,1.5,flat,absent
+67,Male,asymptomatic,100,299,lv hypertrophy,125,present,0.9,flat,present
+69,Male,typical angina,160,234,lv hypertrophy,131,absent,0.1,flat,absent
+45,Female,asymptomatic,138,236,lv hypertrophy,152,present,0.2,flat,absent
+50,Female,atypical angina,120,244,normal,162,absent,1.1,upsloping,absent
+59,Male,typical angina,160,273,lv hypertrophy,125,absent,0,upsloping,present
+50,Female,asymptomatic,110,254,lv hypertrophy,159,absent,0,upsloping,absent
+64,Female,asymptomatic,180,325,normal,154,present,0,upsloping,absent
+57,Male,non-anginal,150,126,normal,173,absent,0.2,upsloping,absent
+64,Female,non-anginal,140,313,normal,133,absent,0.2,upsloping,absent
+43,Male,asymptomatic,110,211,normal,161,absent,0,upsloping,absent
+45,Male,asymptomatic,142,309,lv hypertrophy,147,present,0,flat,present
+58,Male,asymptomatic,128,259,lv hypertrophy,130,present,3,flat,present
+50,Male,asymptomatic,144,200,lv hypertrophy,126,present,0.9,flat,present
+55,Male,atypical angina,130,262,normal,155,absent,0,upsloping,absent
+62,Female,asymptomatic,150,244,normal,154,present,1.4,flat,present
+37,Female,non-anginal,120,215,normal,170,absent,0,upsloping,absent
+38,Male,typical angina,120,231,normal,182,present,3.8,flat,present
+41,Male,non-anginal,130,214,lv hypertrophy,168,absent,2,flat,absent
+66,Female,asymptomatic,178,228,normal,165,present,1,flat,present
+52,Male,asymptomatic,112,230,normal,160,absent,0,upsloping,present
+56,Male,typical angina,120,193,lv hypertrophy,162,absent,1.9,flat,absent
+46,Female,atypical angina,105,204,normal,172,absent,0,upsloping,absent
+46,Female,asymptomatic,138,243,lv hypertrophy,152,present,0,flat,absent
+64,Female,asymptomatic,130,303,normal,122,absent,2,flat,absent
+59,Male,asymptomatic,138,271,lv hypertrophy,182,absent,0,upsloping,absent
+41,Female,non-anginal,112,268,lv hypertrophy,172,present,0,upsloping,absent
+54,Female,non-anginal,108,267,lv hypertrophy,167,absent,0,upsloping,absent
+39,Female,non-anginal,94,199,normal,179,absent,0,upsloping,absent
+53,Male,asymptomatic,123,282,normal,95,present,2,flat,present
+63,Female,asymptomatic,108,269,normal,169,present,1.8,flat,present
+34,Female,atypical angina,118,210,normal,192,absent,0.7,upsloping,absent
+47,Male,asymptomatic,112,204,normal,143,absent,0.1,upsloping,absent
+67,Female,non-anginal,152,277,normal,172,absent,0,upsloping,absent
+54,Male,asymptomatic,110,206,lv hypertrophy,108,present,0,flat,present
+66,Male,asymptomatic,112,212,lv hypertrophy,132,present,0.1,upsloping,present
+52,Female,non-anginal,136,196,lv hypertrophy,169,absent,0.1,flat,absent
+55,Female,asymptomatic,180,327,st-t abnormality,117,present,3.4,flat,present
+49,Male,non-anginal,118,149,lv hypertrophy,126,absent,0.8,upsloping,present
+74,Female,atypical angina,120,269,lv hypertrophy,121,present,0.2,upsloping,absent
+54,Female,non-anginal,160,201,normal,163,absent,0,upsloping,absent
+54,Male,asymptomatic,122,286,lv hypertrophy,116,present,3.2,flat,present
+56,Male,asymptomatic,130,283,lv hypertrophy,103,present,1.6,downsloping,present
+46,Male,asymptomatic,120,249,lv hypertrophy,144,absent,0.8,upsloping,present
+49,Female,atypical angina,134,271,normal,162,absent,0,flat,absent
+42,Male,atypical angina,120,295,normal,162,absent,0,upsloping,absent
+41,Male,atypical angina,110,235,normal,153,absent,0,upsloping,absent
+41,Female,atypical angina,126,306,normal,163,absent,0,upsloping,absent
+49,Female,asymptomatic,130,269,normal,163,absent,0,upsloping,absent
+61,Male,typical angina,134,234,normal,145,absent,2.6,flat,present
+60,Female,non-anginal,120,178,normal,96,absent,0,upsloping,absent
+67,Male,asymptomatic,120,237,normal,71,absent,1,flat,present
+58,Male,asymptomatic,100,234,normal,156,absent,0.1,upsloping,present
+47,Male,asymptomatic,110,275,lv hypertrophy,118,present,1,flat,present
+52,Male,asymptomatic,125,212,normal,168,absent,1,upsloping,present
+62,Male,atypical angina,128,208,lv hypertrophy,140,absent,0,upsloping,absent
+57,Male,asymptomatic,110,201,normal,126,present,1.5,flat,absent
+58,Male,asymptomatic,146,218,normal,105,absent,2,flat,present
+64,Male,asymptomatic,128,263,normal,105,present,0.2,flat,absent
+51,Female,non-anginal,120,295,lv hypertrophy,157,absent,0.6,upsloping,absent
+43,Male,asymptomatic,115,303,normal,181,absent,1.2,flat,absent
+42,Female,non-anginal,120,209,normal,173,absent,0,flat,absent
+67,Female,asymptomatic,106,223,normal,142,absent,0.3,upsloping,absent
+76,Female,non-anginal,140,197,st-t abnormality,116,absent,1.1,flat,absent
+70,Male,atypical angina,156,245,lv hypertrophy,143,absent,0,upsloping,absent
+57,Male,atypical angina,124,261,normal,141,absent,0.3,upsloping,present
+44,Female,non-anginal,118,242,normal,149,absent,0.3,flat,absent
+58,Female,atypical angina,136,319,lv hypertrophy,152,absent,0,upsloping,present
+60,Female,typical angina,150,240,normal,171,absent,0.9,upsloping,absent
+44,Male,non-anginal,120,226,normal,169,absent,0,upsloping,absent
+61,Male,asymptomatic,138,166,lv hypertrophy,125,present,3.6,flat,present
+42,Male,asymptomatic,136,315,normal,125,present,1.8,flat,present
+52,Male,asymptomatic,128,204,normal,156,present,1,flat,present
+59,Male,non-anginal,126,218,normal,134,absent,2.2,flat,present
+40,Male,asymptomatic,152,223,normal,181,absent,0,upsloping,present
+42,Male,non-anginal,130,180,normal,150,absent,0,upsloping,absent
+61,Male,asymptomatic,140,207,lv hypertrophy,138,present,1.9,upsloping,present
+66,Male,asymptomatic,160,228,lv hypertrophy,138,absent,2.3,upsloping,absent
+46,Male,asymptomatic,140,311,normal,120,present,1.8,flat,present
+71,Female,asymptomatic,112,149,normal,125,absent,1.6,flat,absent
+59,Male,typical angina,134,204,normal,162,absent,0.8,upsloping,present
+64,Male,typical angina,170,227,lv hypertrophy,155,absent,0.6,flat,absent
+66,Female,non-anginal,146,278,lv hypertrophy,152,absent,0,flat,absent
+39,Female,non-anginal,138,220,normal,152,absent,0,flat,absent
+57,Male,atypical angina,154,232,lv hypertrophy,164,absent,0,upsloping,present
+58,Female,asymptomatic,130,197,normal,131,absent,0.6,flat,absent
+57,Male,asymptomatic,110,335,normal,143,present,3,flat,present
+47,Male,non-anginal,130,253,normal,179,absent,0,upsloping,absent
+55,Female,asymptomatic,128,205,st-t abnormality,130,present,2,flat,present
+35,Male,atypical angina,122,192,normal,174,absent,0,upsloping,absent
+61,Male,asymptomatic,148,203,normal,161,absent,0,upsloping,present
+58,Male,asymptomatic,114,318,st-t abnormality,140,absent,4.4,downsloping,present
+58,Female,asymptomatic,170,225,lv hypertrophy,146,present,2.8,flat,present
+58,Male,atypical angina,125,220,normal,144,absent,0.4,flat,absent
+56,Male,atypical angina,130,221,lv hypertrophy,163,absent,0,upsloping,absent
+56,Male,atypical angina,120,240,normal,169,absent,0,downsloping,absent
+67,Male,non-anginal,152,212,lv hypertrophy,150,absent,0.8,flat,present
+55,Female,atypical angina,132,342,normal,166,absent,1.2,upsloping,absent
+44,Male,asymptomatic,120,169,normal,144,present,2.8,downsloping,present
+63,Male,asymptomatic,140,187,lv hypertrophy,144,present,4,upsloping,present
+63,Female,asymptomatic,124,197,normal,136,present,0,flat,present
+41,Male,atypical angina,120,157,normal,182,absent,0,upsloping,absent
+59,Male,asymptomatic,164,176,lv hypertrophy,90,absent,1,flat,present
+57,Female,asymptomatic,140,241,normal,123,present,0.2,flat,present
+45,Male,typical angina,110,264,normal,132,absent,1.2,flat,present
+68,Male,asymptomatic,144,193,normal,141,absent,3.4,flat,present
+57,Male,asymptomatic,130,131,normal,115,present,1.2,flat,present
+57,Female,atypical angina,130,236,lv hypertrophy,174,absent,0,flat,present
+38,Male,non-anginal,138,175,normal,173,absent,0,upsloping,absent
+28,Male,atypical angina,130,132,lv hypertrophy,185,absent,0,,absent
+29,Male,atypical angina,120,243,normal,160,absent,0,,absent
+29,Male,atypical angina,140,,normal,170,absent,0,,absent
+30,Female,typical angina,170,237,st-t abnormality,170,absent,0,,absent
+31,Female,atypical angina,100,219,st-t abnormality,150,absent,0,,absent
+32,Female,atypical angina,105,198,normal,165,absent,0,,absent
+32,Male,atypical angina,110,225,normal,184,absent,0,,absent
+32,Male,atypical angina,125,254,normal,155,absent,0,,absent
+33,Male,non-anginal,120,298,normal,185,absent,0,,absent
+34,Female,atypical angina,130,161,normal,190,absent,0,,absent
+34,Male,atypical angina,150,214,st-t abnormality,168,absent,0,,absent
+34,Male,atypical angina,98,220,normal,150,absent,0,,absent
+35,Female,typical angina,120,160,st-t abnormality,185,absent,0,,absent
+35,Female,asymptomatic,140,167,normal,150,absent,0,,absent
+35,Male,atypical angina,120,308,lv hypertrophy,180,absent,0,,absent
+35,Male,atypical angina,150,264,normal,168,absent,0,,absent
+36,Male,atypical angina,120,166,normal,180,absent,0,,absent
+36,Male,non-anginal,112,340,normal,184,absent,1,flat,absent
+36,Male,non-anginal,130,209,normal,178,absent,0,,absent
+36,Male,non-anginal,150,160,normal,172,absent,0,,absent
+37,Female,atypical angina,120,260,normal,130,absent,0,,absent
+37,Female,non-anginal,130,211,normal,142,absent,0,,absent
+37,Female,asymptomatic,130,173,st-t abnormality,184,absent,0,,absent
+37,Male,atypical angina,130,283,st-t abnormality,98,absent,0,,absent
+37,Male,non-anginal,130,194,normal,150,absent,0,,absent
+37,Male,asymptomatic,120,223,normal,168,absent,0,,absent
+37,Male,asymptomatic,130,315,normal,158,absent,0,,absent
+38,Female,atypical angina,120,275,normal,129,absent,0,,absent
+38,Male,atypical angina,140,297,normal,150,absent,0,,absent
+38,Male,non-anginal,145,292,normal,130,absent,0,,absent
+39,Female,non-anginal,110,182,st-t abnormality,180,absent,0,,absent
+39,Male,atypical angina,120,,st-t abnormality,146,absent,2,upsloping,absent
+39,Male,atypical angina,120,200,normal,160,present,1,flat,absent
+39,Male,atypical angina,120,204,normal,145,absent,0,,absent
+39,Male,atypical angina,130,,normal,120,absent,0,,absent
+39,Male,atypical angina,190,241,normal,106,absent,0,,absent
+39,Male,non-anginal,120,339,normal,170,absent,0,,absent
+39,Male,non-anginal,160,147,normal,160,absent,0,,absent
+39,Male,asymptomatic,110,273,normal,132,absent,0,,absent
+39,Male,asymptomatic,130,307,normal,140,absent,0,,absent
+40,Male,atypical angina,130,275,normal,150,absent,0,,absent
+40,Male,atypical angina,140,289,normal,172,absent,0,,absent
+40,Male,non-anginal,130,215,normal,138,absent,0,,absent
+40,Male,non-anginal,130,281,normal,167,absent,0,,absent
+40,Male,non-anginal,140,,normal,188,absent,0,,absent
+41,Female,atypical angina,110,250,st-t abnormality,142,absent,0,,absent
+41,Female,atypical angina,125,184,normal,180,absent,0,,absent
+41,Female,atypical angina,130,245,normal,150,absent,0,,absent
+41,Male,atypical angina,120,291,st-t abnormality,160,absent,0,,absent
+41,Male,atypical angina,120,295,normal,170,absent,0,,absent
+41,Male,atypical angina,125,269,normal,144,absent,0,,absent
+41,Male,asymptomatic,112,250,normal,142,absent,0,,absent
+42,Female,non-anginal,115,211,st-t abnormality,137,absent,0,,absent
+42,Male,atypical angina,120,196,normal,150,absent,0,,absent
+42,Male,atypical angina,120,198,normal,155,absent,0,,absent
+42,Male,atypical angina,150,268,normal,136,absent,0,,absent
+42,Male,non-anginal,120,228,normal,152,present,1.5,flat,absent
+42,Male,non-anginal,160,147,normal,146,absent,0,,absent
+42,Male,asymptomatic,140,358,normal,170,absent,0,,absent
+43,Female,typical angina,100,223,normal,142,absent,0,,absent
+43,Female,atypical angina,120,201,normal,165,absent,0,,absent
+43,Female,atypical angina,120,215,st-t abnormality,175,absent,0,,absent
+43,Female,atypical angina,120,249,st-t abnormality,176,absent,0,,absent
+43,Female,atypical angina,120,266,normal,118,absent,0,,absent
+43,Female,atypical angina,150,186,normal,154,absent,0,,absent
+43,Female,non-anginal,150,,normal,175,absent,0,,absent
+43,Male,atypical angina,142,207,normal,138,absent,0,,absent
+44,Female,asymptomatic,120,218,st-t abnormality,115,absent,0,,absent
+44,Male,atypical angina,120,184,normal,142,absent,1,flat,absent
+44,Male,atypical angina,130,215,normal,135,absent,0,,absent
+44,Male,asymptomatic,150,412,normal,170,absent,0,,absent
+45,Female,atypical angina,130,237,normal,170,absent,0,,absent
+45,Female,atypical angina,180,,normal,180,absent,0,,absent
+45,Female,asymptomatic,132,297,normal,144,absent,0,,absent
+45,Male,atypical angina,140,224,normal,122,absent,0,,absent
+45,Male,non-anginal,135,,normal,110,absent,0,,absent
+45,Male,asymptomatic,120,225,normal,140,absent,0,,absent
+45,Male,asymptomatic,140,224,normal,144,absent,0,,absent
+46,Female,asymptomatic,130,238,normal,90,absent,0,,absent
+46,Male,atypical angina,140,275,normal,165,present,0,,absent
+46,Male,non-anginal,120,230,normal,150,absent,0,,absent
+46,Male,non-anginal,150,163,normal,116,absent,0,,absent
+46,Male,asymptomatic,110,238,st-t abnormality,140,present,1,flat,absent
+46,Male,asymptomatic,110,240,st-t abnormality,140,absent,0,,absent
+46,Male,asymptomatic,180,280,st-t abnormality,120,absent,0,,absent
+47,Female,atypical angina,140,257,normal,135,absent,1,upsloping,absent
+47,Female,non-anginal,130,,normal,145,absent,2,flat,absent
+47,Male,typical angina,110,249,normal,150,absent,0,,absent
+47,Male,atypical angina,160,263,normal,174,absent,0,,absent
+47,Male,asymptomatic,140,276,normal,125,present,0,,absent
+48,Female,atypical angina,,308,st-t abnormality,,,2,upsloping,absent
+48,Female,atypical angina,120,,st-t abnormality,148,absent,0,,absent
+48,Female,atypical angina,120,284,normal,120,absent,0,,absent
+48,Female,non-anginal,120,195,normal,125,absent,0,,absent
+48,Female,asymptomatic,108,163,normal,175,absent,2,upsloping,absent
+48,Female,asymptomatic,120,254,st-t abnormality,110,absent,0,,absent
+48,Female,asymptomatic,150,227,normal,130,present,1,flat,absent
+48,Male,atypical angina,100,,normal,100,absent,0,,absent
+48,Male,atypical angina,130,245,normal,160,absent,0,,absent
+48,Male,atypical angina,140,238,normal,118,absent,0,,absent
+48,Male,non-anginal,110,211,normal,138,absent,0,,absent
+49,Female,atypical angina,110,,normal,160,absent,0,,absent
+49,Female,atypical angina,110,,normal,160,absent,0,,absent
+49,Female,atypical angina,124,201,normal,164,absent,0,,absent
+49,Female,non-anginal,130,207,st-t abnormality,135,absent,0,,absent
+49,Male,atypical angina,100,253,normal,174,absent,0,,absent
+49,Male,non-anginal,140,187,normal,172,absent,0,,absent
+49,Male,asymptomatic,120,297,normal,132,absent,1,flat,absent
+49,Male,asymptomatic,140,,normal,130,absent,0,,absent
+50,Female,atypical angina,110,202,normal,145,absent,0,,absent
+50,Female,asymptomatic,120,328,normal,110,present,1,flat,absent
+50,Male,atypical angina,120,168,normal,160,absent,0,,absent
+50,Male,atypical angina,140,216,normal,170,absent,0,,absent
+50,Male,atypical angina,170,209,st-t abnormality,116,absent,0,,absent
+50,Male,asymptomatic,140,129,normal,135,absent,0,,absent
+50,Male,asymptomatic,150,215,normal,140,present,0,,absent
+51,Female,atypical angina,160,194,normal,170,absent,0,,absent
+51,Female,non-anginal,110,190,normal,120,absent,0,,absent
+51,Female,non-anginal,130,220,normal,160,present,2,upsloping,absent
+51,Female,non-anginal,150,200,normal,120,absent,0.5,upsloping,absent
+51,Male,atypical angina,125,188,normal,145,absent,0,,absent
+51,Male,atypical angina,130,224,normal,150,absent,0,,absent
+51,Male,asymptomatic,130,179,normal,100,absent,0,,absent
+52,Female,atypical angina,120,210,normal,148,absent,0,,absent
+52,Female,atypical angina,140,,normal,140,absent,0,,absent
+52,Female,non-anginal,125,272,normal,139,absent,0,,absent
+52,Female,asymptomatic,130,180,normal,140,present,1.5,flat,absent
+52,Male,atypical angina,120,284,normal,118,absent,0,,absent
+52,Male,atypical angina,140,100,normal,138,present,0,,absent
+52,Male,atypical angina,160,196,normal,165,absent,0,,absent
+52,Male,non-anginal,140,259,st-t abnormality,170,absent,0,,absent
+53,Female,atypical angina,113,468,normal,127,absent,0,,absent
+53,Female,atypical angina,140,216,normal,142,present,2,flat,absent
+53,Female,non-anginal,120,274,normal,130,absent,0,,absent
+53,Male,atypical angina,120,,normal,132,absent,0,,absent
+53,Male,atypical angina,140,320,normal,162,absent,0,,absent
+53,Male,non-anginal,120,195,normal,140,absent,0,,absent
+53,Male,asymptomatic,124,260,st-t abnormality,112,present,3,flat,absent
+53,Male,asymptomatic,130,182,normal,148,absent,0,,absent
+53,Male,asymptomatic,140,243,normal,155,absent,0,,absent
+54,Female,atypical angina,120,221,normal,138,absent,1,upsloping,absent
+54,Female,atypical angina,120,230,normal,140,absent,0,,absent
+54,Female,atypical angina,120,273,normal,150,absent,1.5,flat,absent
+54,Female,atypical angina,130,253,st-t abnormality,155,absent,0,,absent
+54,Female,atypical angina,140,309,st-t abnormality,140,absent,0,,absent
+54,Female,atypical angina,150,230,normal,130,absent,0,,absent
+54,Female,atypical angina,160,312,normal,130,absent,0,,absent
+54,Male,typical angina,120,171,normal,137,absent,2,upsloping,absent
+54,Male,atypical angina,110,208,normal,142,absent,0,,absent
+54,Male,atypical angina,120,238,normal,154,absent,0,,absent
+54,Male,atypical angina,120,246,normal,110,absent,0,,absent
+54,Male,atypical angina,160,195,st-t abnormality,130,absent,1,upsloping,absent
+54,Male,atypical angina,160,305,normal,175,absent,0,,absent
+54,Male,non-anginal,120,217,normal,137,absent,0,,absent
+54,Male,non-anginal,150,,normal,122,absent,0,,absent
+54,Male,asymptomatic,150,365,st-t abnormality,134,absent,1,upsloping,absent
+55,Female,atypical angina,110,344,st-t abnormality,160,absent,0,,absent
+55,Female,atypical angina,122,320,normal,155,absent,0,,absent
+55,Female,atypical angina,130,394,lv hypertrophy,150,absent,0,,absent
+55,Male,atypical angina,120,256,normal,137,absent,0,,absent
+55,Male,atypical angina,140,196,normal,150,absent,0,,absent
+55,Male,atypical angina,145,326,normal,155,absent,0,,absent
+55,Male,non-anginal,110,277,normal,160,absent,0,,absent
+55,Male,non-anginal,120,220,lv hypertrophy,134,absent,0,,absent
+55,Male,asymptomatic,120,270,normal,140,absent,0,,absent
+55,Male,asymptomatic,140,229,normal,110,present,0.5,flat,absent
+56,Female,non-anginal,130,219,st-t abnormality,164,absent,0,,absent
+56,Male,atypical angina,130,184,normal,100,absent,0,,absent
+56,Male,non-anginal,130,,normal,114,absent,0,,absent
+56,Male,non-anginal,130,276,normal,128,present,1,upsloping,absent
+56,Male,asymptomatic,120,85,normal,140,absent,0,,absent
+57,Female,typical angina,130,308,normal,98,absent,1,flat,absent
+57,Female,asymptomatic,180,347,st-t abnormality,126,present,0.8,flat,absent
+57,Male,atypical angina,140,260,normal,140,absent,0,,absent
+58,Male,atypical angina,130,230,normal,150,absent,0,,absent
+58,Male,atypical angina,130,251,normal,110,absent,0,,absent
+58,Male,non-anginal,140,179,normal,160,absent,0,,absent
+58,Male,asymptomatic,135,222,normal,100,absent,0,,absent
+59,Female,atypical angina,130,188,normal,124,absent,1,flat,absent
+59,Male,atypical angina,140,287,normal,150,absent,0,,absent
+59,Male,non-anginal,130,318,normal,120,present,1,flat,absent
+59,Male,non-anginal,180,213,normal,100,absent,0,,absent
+59,Male,asymptomatic,140,,normal,140,absent,0,,absent
+60,Male,non-anginal,120,246,lv hypertrophy,135,absent,0,,absent
+61,Female,asymptomatic,130,294,st-t abnormality,120,present,1,flat,absent
+61,Male,asymptomatic,125,292,st-t abnormality,115,present,0,,absent
+62,Female,typical angina,160,193,normal,116,absent,0,,absent
+62,Male,atypical angina,140,271,normal,152,absent,1,upsloping,absent
+31,Male,asymptomatic,120,270,normal,153,present,1.5,flat,present
+33,Female,asymptomatic,100,246,normal,150,present,1,flat,present
+34,Male,typical angina,140,156,normal,180,absent,0,,present
+35,Male,atypical angina,110,257,normal,140,absent,0,,present
+36,Male,atypical angina,120,267,normal,160,absent,3,flat,present
+37,Male,asymptomatic,140,207,normal,130,present,1.5,flat,present
+38,Male,asymptomatic,110,196,normal,166,absent,0,,present
+38,Male,asymptomatic,120,282,normal,170,absent,0,,present
+38,Male,asymptomatic,92,117,normal,134,present,2.5,flat,present
+40,Male,asymptomatic,120,466,normal,152,present,1,flat,present
+41,Male,asymptomatic,110,289,normal,170,absent,0,,present
+41,Male,asymptomatic,120,237,normal,138,present,1,flat,present
+43,Male,asymptomatic,150,247,normal,130,present,2,flat,present
+46,Male,asymptomatic,110,202,normal,150,present,0,,present
+46,Male,asymptomatic,118,186,normal,124,absent,0,,present
+46,Male,asymptomatic,120,277,normal,125,present,1,flat,present
+47,Male,non-anginal,140,193,normal,145,present,1,flat,present
+47,Male,asymptomatic,150,226,normal,98,present,1.5,flat,present
+48,Male,asymptomatic,106,263,normal,110,absent,0,,present
+48,Male,asymptomatic,120,260,normal,115,absent,2,flat,present
+48,Male,asymptomatic,160,268,normal,103,present,1,flat,present
+49,Female,non-anginal,160,180,normal,156,absent,1,flat,present
+49,Male,non-anginal,115,265,normal,175,absent,0,,present
+49,Male,asymptomatic,130,206,normal,170,absent,0,,present
+50,Female,non-anginal,140,288,normal,140,present,0,,present
+50,Male,asymptomatic,145,264,normal,150,absent,0,,present
+51,Female,asymptomatic,160,303,normal,150,present,1,flat,present
+52,Male,asymptomatic,130,225,normal,120,present,2,flat,present
+54,Male,asymptomatic,125,216,normal,140,absent,0,,present
+54,Male,asymptomatic,125,224,normal,122,absent,2,flat,present
+55,Male,asymptomatic,140,201,normal,130,present,3,flat,present
+57,Male,atypical angina,140,265,st-t abnormality,145,present,1,flat,present
+58,Male,non-anginal,130,213,st-t abnormality,140,absent,0,,present
+59,Female,asymptomatic,130,338,st-t abnormality,130,present,1.5,flat,present
+60,Male,asymptomatic,100,248,normal,125,absent,1,flat,present
+63,Male,asymptomatic,150,223,normal,115,absent,0,,present
+65,Male,asymptomatic,140,306,normal,87,present,1.5,flat,present
+32,Male,asymptomatic,118,529,normal,130,absent,0,,present
+38,Male,asymptomatic,110,,normal,150,present,1,flat,present
+39,Male,asymptomatic,110,280,normal,150,absent,0,,present
+40,Female,asymptomatic,150,392,normal,130,absent,2,flat,present
+43,Male,typical angina,120,291,st-t abnormality,155,absent,0,,present
+45,Male,asymptomatic,130,219,st-t abnormality,130,present,1,flat,present
+46,Male,asymptomatic,120,231,normal,115,present,0,,present
+46,Male,asymptomatic,130,222,normal,112,absent,0,,present
+48,Male,asymptomatic,122,275,st-t abnormality,150,present,2,downsloping,present
+48,Male,asymptomatic,160,193,normal,102,present,3,flat,present
+48,Male,asymptomatic,160,329,normal,92,present,1.5,flat,present
+48,Male,asymptomatic,160,355,normal,99,present,2,flat,present
+50,Male,asymptomatic,130,233,normal,121,present,2,flat,present
+52,Male,asymptomatic,120,182,normal,150,absent,0,,present
+52,Male,asymptomatic,170,,normal,126,present,1.5,flat,present
+53,Male,asymptomatic,120,246,normal,116,present,0,,present
+54,Male,non-anginal,120,237,normal,150,present,1.5,,present
+54,Male,asymptomatic,130,242,normal,91,present,1,flat,present
+54,Male,asymptomatic,130,603,normal,125,present,1,flat,present
+54,Male,asymptomatic,140,,normal,118,present,0,,present
+54,Male,asymptomatic,200,198,normal,142,present,2,flat,present
+55,Male,asymptomatic,140,268,normal,128,present,1.5,flat,present
+56,Male,asymptomatic,150,213,normal,125,present,1,flat,present
+57,Male,asymptomatic,150,255,normal,92,present,3,flat,present
+58,Male,non-anginal,160,211,st-t abnormality,92,absent,0,,present
+58,Male,asymptomatic,130,263,normal,140,present,2,flat,present
+41,Male,asymptomatic,130,172,st-t abnormality,130,absent,2,flat,present
+43,Male,asymptomatic,120,175,normal,120,present,1,flat,present
+44,Male,atypical angina,150,288,normal,150,present,3,flat,present
+44,Male,asymptomatic,130,290,normal,100,present,2,flat,present
+46,Male,typical angina,140,272,normal,175,absent,2,flat,present
+47,Female,non-anginal,135,248,normal,170,absent,0,,present
+48,Female,asymptomatic,138,214,normal,108,present,1.5,flat,present
+49,Male,asymptomatic,130,341,normal,120,present,1,flat,present
+49,Male,asymptomatic,140,234,normal,140,present,1,flat,present
+51,Male,non-anginal,135,160,normal,150,absent,2,flat,present
+52,Male,asymptomatic,112,342,st-t abnormality,96,present,1,flat,present
+52,Male,asymptomatic,130,298,normal,110,present,1,flat,present
+52,Male,asymptomatic,140,404,normal,124,present,2,flat,present
+52,Male,asymptomatic,160,246,st-t abnormality,82,present,4,flat,present
+53,Male,non-anginal,145,518,normal,130,absent,0,,present
+53,Male,asymptomatic,180,285,st-t abnormality,120,present,1.5,flat,present
+54,Male,asymptomatic,140,216,normal,105,absent,1.5,flat,present
+55,Male,typical angina,140,295,,136,absent,0,,present
+55,Male,atypical angina,160,292,normal,143,present,2,flat,present
+55,Male,asymptomatic,145,248,normal,96,present,2,flat,present
+56,Female,atypical angina,120,279,normal,150,absent,1,flat,present
+56,Male,asymptomatic,150,230,st-t abnormality,124,present,1.5,flat,present
+56,Male,asymptomatic,170,388,st-t abnormality,122,present,2,flat,present
+58,Male,atypical angina,136,164,st-t abnormality,99,present,2,flat,present
+59,Male,asymptomatic,130,,normal,125,absent,0,,present
+59,Male,asymptomatic,140,264,lv hypertrophy,119,present,0,,present
+65,Male,asymptomatic,170,263,normal,112,present,2,flat,present
+66,Male,asymptomatic,140,,normal,94,present,1,flat,present
+41,Male,asymptomatic,120,336,normal,118,present,3,flat,present
+43,Male,asymptomatic,140,288,normal,135,present,2,flat,present
+44,Male,asymptomatic,135,491,normal,135,absent,0,,present
+47,Female,asymptomatic,120,205,normal,98,present,2,flat,present
+47,Male,asymptomatic,160,291,st-t abnormality,158,present,3,flat,present
+49,Male,asymptomatic,128,212,normal,96,present,0,,present
+49,Male,asymptomatic,150,222,normal,122,absent,2,flat,present
+50,Male,asymptomatic,140,231,st-t abnormality,140,present,5,flat,present
+50,Male,asymptomatic,140,341,st-t abnormality,125,present,2.5,flat,present
+52,Male,asymptomatic,140,266,normal,134,present,2,flat,present
+52,Male,asymptomatic,160,331,normal,94,present,2.5,,present
+54,Female,non-anginal,130,294,st-t abnormality,100,present,0,flat,present
+56,Male,asymptomatic,155,342,normal,150,present,3,flat,present
+58,Female,atypical angina,180,393,normal,110,present,1,flat,present
+65,Male,asymptomatic,130,275,st-t abnormality,115,present,1,flat,present
+32,Male,typical angina,95,0,normal,127,absent,0.7,upsloping,present
+34,Male,asymptomatic,115,0,,154,absent,0.2,upsloping,present
+35,Male,asymptomatic,,0,normal,130,present,,,present
+36,Male,asymptomatic,110,0,normal,125,present,1,flat,present
+38,Female,asymptomatic,105,0,normal,166,absent,2.8,upsloping,present
+38,Female,asymptomatic,110,0,normal,156,absent,0,flat,present
+38,Male,non-anginal,100,0,normal,179,absent,-1.1,upsloping,absent
+38,Male,non-anginal,115,0,normal,128,present,0,flat,present
+38,Male,asymptomatic,135,0,normal,150,absent,0,,present
+38,Male,asymptomatic,150,0,normal,120,present,,,present
+40,Male,asymptomatic,95,0,st-t abnormality,144,absent,0,upsloping,present
+41,Male,asymptomatic,125,0,normal,176,absent,1.6,upsloping,present
+42,Male,asymptomatic,105,0,normal,128,present,-1.5,downsloping,present
+42,Male,asymptomatic,145,0,normal,99,present,0,flat,present
+43,Male,asymptomatic,100,0,normal,122,absent,1.5,downsloping,present
+43,Male,asymptomatic,115,0,normal,145,present,2,flat,present
+43,Male,asymptomatic,140,0,st-t abnormality,140,present,0.5,upsloping,present
+45,Male,non-anginal,110,0,normal,138,absent,-0.1,upsloping,absent
+46,Male,asymptomatic,100,0,st-t abnormality,133,absent,-2.6,flat,present
+46,Male,asymptomatic,115,0,normal,113,present,1.5,flat,present
+47,Male,non-anginal,110,0,normal,120,present,0,,present
+47,Male,non-anginal,155,0,normal,118,present,1,flat,present
+47,Male,asymptomatic,110,0,st-t abnormality,149,absent,2.1,upsloping,present
+47,Male,asymptomatic,160,0,normal,124,present,0,flat,present
+48,Male,asymptomatic,115,0,normal,128,absent,0,flat,present
+50,Female,asymptomatic,160,0,normal,110,absent,0,,present
+50,Male,asymptomatic,115,0,normal,120,present,0.5,flat,present
+50,Male,asymptomatic,120,0,st-t abnormality,156,present,0,upsloping,present
+50,Male,asymptomatic,145,0,normal,139,present,0.7,flat,present
+51,Female,asymptomatic,120,0,normal,127,present,1.5,upsloping,present
+51,Male,asymptomatic,110,0,normal,92,absent,0,flat,present
+51,Male,asymptomatic,120,0,normal,104,absent,0,flat,present
+51,Male,asymptomatic,130,0,normal,170,absent,-0.7,upsloping,present
+51,Male,asymptomatic,130,0,st-t abnormality,163,absent,0,,present
+51,Male,asymptomatic,140,0,normal,60,absent,0,flat,present
+51,Male,asymptomatic,95,0,normal,126,absent,2.2,flat,present
+52,Male,asymptomatic,130,0,normal,120,absent,0,flat,present
+52,Male,asymptomatic,135,0,normal,128,present,2,flat,present
+52,Male,asymptomatic,165,0,normal,122,present,1,upsloping,present
+52,Male,asymptomatic,95,0,normal,82,present,,,present
+53,Male,atypical angina,120,0,normal,95,absent,0,flat,present
+53,Male,atypical angina,130,0,st-t abnormality,120,absent,0.7,downsloping,absent
+53,Male,non-anginal,105,0,normal,115,absent,0,flat,present
+53,Male,non-anginal,160,0,lv hypertrophy,122,present,0,,present
+53,Male,asymptomatic,120,0,normal,120,absent,0,flat,present
+53,Male,asymptomatic,125,0,normal,120,absent,1.5,upsloping,present
+53,Male,asymptomatic,130,0,lv hypertrophy,135,present,1,flat,present
+53,Male,asymptomatic,80,0,normal,141,present,2,downsloping,absent
+54,Male,asymptomatic,120,0,normal,155,absent,0,flat,present
+54,Male,asymptomatic,130,0,normal,110,present,3,flat,present
+54,Male,asymptomatic,180,0,normal,150,absent,1.5,flat,present
+55,Male,atypical angina,140,0,st-t abnormality,150,absent,0.2,upsloping,absent
+55,Male,asymptomatic,115,0,normal,155,absent,0.1,flat,present
+55,Male,asymptomatic,120,0,st-t abnormality,92,absent,0.3,upsloping,present
+55,Male,asymptomatic,140,0,normal,83,absent,0,flat,present
+56,Male,non-anginal,120,0,normal,97,absent,0,flat,absent
+56,Male,non-anginal,125,0,normal,98,absent,-2,flat,present
+56,Male,non-anginal,155,0,st-t abnormality,99,absent,0,flat,present
+56,Male,asymptomatic,115,0,st-t abnormality,82,absent,-1,upsloping,present
+56,Male,asymptomatic,120,0,st-t abnormality,100,present,-1,downsloping,present
+56,Male,asymptomatic,120,0,st-t abnormality,148,absent,0,flat,present
+56,Male,asymptomatic,125,0,normal,103,present,1,flat,present
+56,Male,asymptomatic,140,0,normal,121,present,1.8,upsloping,present
+57,Male,non-anginal,105,0,normal,148,absent,0.3,flat,present
+57,Male,asymptomatic,110,0,st-t abnormality,131,present,1.4,upsloping,present
+57,Male,asymptomatic,140,0,normal,120,present,2,flat,present
+57,Male,asymptomatic,140,0,normal,100,present,0,,present
+57,Male,asymptomatic,160,0,normal,98,present,2,flat,present
+57,Male,asymptomatic,95,0,normal,182,absent,0.7,downsloping,present
+58,Male,asymptomatic,115,0,normal,138,absent,0.5,upsloping,present
+58,Male,asymptomatic,130,0,st-t abnormality,100,present,1,flat,present
+58,Male,asymptomatic,170,0,st-t abnormality,105,present,0,,present
+59,Male,non-anginal,125,0,normal,175,absent,2.6,flat,present
+59,Male,asymptomatic,110,0,normal,94,absent,0,,present
+59,Male,asymptomatic,120,0,normal,115,absent,0,flat,present
+59,Male,asymptomatic,125,0,normal,119,present,0.9,upsloping,present
+59,Male,asymptomatic,135,0,normal,115,present,1,flat,present
+60,Male,non-anginal,115,0,normal,143,absent,2.4,upsloping,present
+60,Male,asymptomatic,125,0,normal,110,absent,0.1,upsloping,present
+60,Male,asymptomatic,130,0,st-t abnormality,130,present,1.1,downsloping,present
+60,Male,asymptomatic,135,0,normal,63,present,0.5,upsloping,present
+60,Male,asymptomatic,160,0,st-t abnormality,99,present,0.5,flat,present
+60,Male,asymptomatic,160,0,normal,149,absent,0.4,flat,present
+61,Male,non-anginal,200,0,st-t abnormality,70,absent,0,,present
+61,Male,asymptomatic,105,0,normal,110,present,1.5,upsloping,present
+61,Male,asymptomatic,110,0,normal,113,absent,1.4,flat,present
+61,Male,asymptomatic,125,0,normal,105,present,0,downsloping,present
+61,Male,asymptomatic,130,0,lv hypertrophy,115,absent,0,flat,present
+61,Male,asymptomatic,130,0,normal,77,absent,2.5,flat,present
+61,Male,asymptomatic,150,0,normal,105,present,0,flat,present
+61,Male,asymptomatic,150,0,normal,117,present,2,flat,present
+61,Male,asymptomatic,160,0,st-t abnormality,145,absent,1,flat,present
+62,Female,typical angina,140,0,normal,143,absent,0,,present
+62,Female,asymptomatic,120,0,st-t abnormality,123,present,1.7,downsloping,present
+62,Male,typical angina,120,0,lv hypertrophy,134,absent,-0.8,flat,present
+62,Male,non-anginal,160,0,normal,72,present,0,flat,present
+62,Male,asymptomatic,115,0,normal,128,present,2.5,downsloping,present
+62,Male,asymptomatic,115,0,normal,72,present,-0.5,flat,present
+62,Male,asymptomatic,150,0,st-t abnormality,78,absent,2,flat,present
+63,Male,asymptomatic,100,0,normal,109,absent,-0.9,flat,present
+63,Male,asymptomatic,140,0,lv hypertrophy,149,absent,2,upsloping,present
+63,Male,asymptomatic,150,0,normal,86,present,2,flat,present
+63,Male,asymptomatic,150,0,st-t abnormality,154,absent,3.7,upsloping,present
+63,Male,asymptomatic,185,0,normal,98,present,0,upsloping,present
+64,Female,asymptomatic,200,0,normal,140,present,1,flat,present
+64,Female,asymptomatic,95,0,normal,145,absent,1.1,downsloping,present
+64,Male,asymptomatic,110,0,normal,114,present,1.3,downsloping,present
+65,Male,asymptomatic,115,0,normal,93,present,0,flat,present
+65,Male,asymptomatic,145,0,st-t abnormality,67,absent,,,present
+65,Male,asymptomatic,155,0,normal,154,absent,1,upsloping,absent
+65,Male,asymptomatic,160,0,st-t abnormality,122,absent,,,present
+66,Female,asymptomatic,155,0,normal,90,absent,0,,present
+66,Male,asymptomatic,150,0,normal,108,present,2,flat,present
+67,Male,typical angina,145,0,lv hypertrophy,125,absent,0,flat,present
+68,Male,asymptomatic,135,0,st-t abnormality,120,present,0,upsloping,present
+68,Male,asymptomatic,145,0,normal,136,absent,1.8,upsloping,present
+69,Male,asymptomatic,135,0,normal,130,absent,0,flat,present
+69,Male,asymptomatic,,0,st-t abnormality,,,,,present
+70,Male,asymptomatic,115,0,st-t abnormality,92,present,0,flat,present
+70,Male,asymptomatic,140,0,normal,157,present,2,flat,present
+72,Male,non-anginal,160,0,lv hypertrophy,114,absent,1.6,flat,absent
+73,Female,non-anginal,160,0,st-t abnormality,121,absent,0,upsloping,present
+74,Male,atypical angina,145,0,st-t abnormality,123,absent,1.3,upsloping,present
+63,Male,asymptomatic,140,260,st-t abnormality,112,present,3,flat,present
+44,Male,asymptomatic,130,209,st-t abnormality,127,absent,0,,absent
+60,Male,asymptomatic,132,218,st-t abnormality,140,present,1.5,downsloping,present
+55,Male,asymptomatic,142,228,st-t abnormality,149,present,2.5,upsloping,present
+66,Male,non-anginal,110,213,lv hypertrophy,99,present,1.3,flat,absent
+66,Male,non-anginal,120,0,st-t abnormality,120,absent,-0.5,upsloping,absent
+65,Male,asymptomatic,150,236,st-t abnormality,105,present,0,,present
+60,Male,non-anginal,180,0,st-t abnormality,140,present,1.5,flat,absent
+60,Male,non-anginal,120,0,normal,141,present,2,upsloping,present
+60,Male,atypical angina,160,267,st-t abnormality,157,absent,0.5,flat,present
+56,Male,atypical angina,126,166,st-t abnormality,140,absent,0,,absent
+59,Male,asymptomatic,140,0,st-t abnormality,117,present,1,flat,present
+62,Male,asymptomatic,110,0,normal,120,present,0.5,flat,present
+63,Male,non-anginal,,0,lv hypertrophy,,,,,present
+57,Male,asymptomatic,128,0,st-t abnormality,148,present,1,flat,present
+62,Male,asymptomatic,120,220,st-t abnormality,86,absent,0,,absent
+63,Male,asymptomatic,170,177,normal,84,present,2.5,downsloping,present
+46,Male,asymptomatic,110,236,normal,125,present,2,flat,present
+63,Male,asymptomatic,126,0,st-t abnormality,120,absent,1.5,downsloping,absent
+60,Male,asymptomatic,152,0,st-t abnormality,118,present,0,,absent
+58,Male,asymptomatic,116,0,normal,124,absent,1,upsloping,present
+64,Male,asymptomatic,120,0,st-t abnormality,106,absent,2,flat,present
+63,Male,non-anginal,130,0,st-t abnormality,111,present,0,,present
+74,Male,non-anginal,,0,normal,,,,,absent
+52,Male,non-anginal,128,0,st-t abnormality,180,absent,3,upsloping,present
+69,Male,asymptomatic,130,0,st-t abnormality,129,absent,1,flat,present
+51,Male,asymptomatic,,0,st-t abnormality,,,,,present
+60,Male,asymptomatic,130,186,st-t abnormality,140,present,0.5,flat,present
+56,Male,asymptomatic,120,100,normal,120,present,1.5,flat,present
+55,Male,non-anginal,,228,st-t abnormality,,,,,present
+54,Male,asymptomatic,,0,st-t abnormality,,,,,present
+77,Male,asymptomatic,124,171,st-t abnormality,110,present,2,upsloping,present
+63,Male,asymptomatic,160,230,normal,105,present,1,flat,present
+55,Male,non-anginal,0,0,normal,155,absent,1.5,flat,present
+52,Male,non-anginal,122,0,normal,110,present,2,downsloping,present
+64,Male,asymptomatic,144,0,st-t abnormality,122,present,1,flat,present
+60,Male,asymptomatic,,281,st-t abnormality,,,,,present
+60,Male,asymptomatic,120,0,normal,133,present,2,upsloping,absent
+58,Male,asymptomatic,,203,normal,,,,,present
+59,Male,asymptomatic,154,0,st-t abnormality,131,present,1.5,,absent
+61,Male,non-anginal,120,0,normal,80,present,0,flat,present
+40,Male,asymptomatic,125,0,normal,165,absent,0,,present
+61,Male,asymptomatic,,0,st-t abnormality,86,absent,1.5,flat,present
+41,Male,asymptomatic,104,0,st-t abnormality,111,absent,0,,absent
+57,Male,asymptomatic,,277,st-t abnormality,,,,,present
+63,Male,asymptomatic,136,0,normal,84,present,0,,present
+59,Male,asymptomatic,122,233,normal,117,present,1.3,downsloping,present
+51,Male,asymptomatic,128,0,normal,107,absent,0,,absent
+59,Male,non-anginal,,0,normal,128,present,2,downsloping,present
+42,Male,non-anginal,134,240,normal,160,absent,0,,absent
+55,Male,non-anginal,120,0,st-t abnormality,125,present,2.5,flat,present
+63,Female,atypical angina,,0,normal,,,,,absent
+62,Male,asymptomatic,152,153,st-t abnormality,97,present,1.6,upsloping,present
+56,Male,atypical angina,124,224,normal,161,absent,2,flat,absent
+53,Male,asymptomatic,126,0,normal,106,absent,0,,present
+68,Male,asymptomatic,138,0,normal,130,present,3,flat,present
+53,Male,asymptomatic,154,0,st-t abnormality,140,present,1.5,flat,present
+60,Male,non-anginal,,316,st-t abnormality,,,,,present
+62,Male,atypical angina,,0,normal,,,,,absent
+59,Male,asymptomatic,178,0,lv hypertrophy,120,present,0,,present
+51,Male,asymptomatic,,218,lv hypertrophy,,,,,absent
+61,Male,asymptomatic,110,0,normal,108,present,2,downsloping,present
+57,Male,asymptomatic,130,311,st-t abnormality,148,present,2,flat,present
+56,Male,non-anginal,170,0,lv hypertrophy,123,present,2.5,,present
+58,Male,atypical angina,126,0,normal,110,present,2,flat,present
+69,Male,non-anginal,140,0,st-t abnormality,118,absent,2.5,downsloping,present
+67,Male,typical angina,142,270,normal,125,absent,2.5,upsloping,present
+58,Male,asymptomatic,120,0,lv hypertrophy,106,present,1.5,downsloping,present
+65,Male,asymptomatic,,0,normal,,,,,present
+63,Male,atypical angina,,217,st-t abnormality,,,,,present
+55,Male,atypical angina,110,214,st-t abnormality,180,absent,,,absent
+57,Male,asymptomatic,140,214,st-t abnormality,144,present,2,flat,present
+65,Male,typical angina,,252,normal,,,,,absent
+54,Male,asymptomatic,136,220,normal,140,present,3,flat,present
+72,Male,non-anginal,120,214,normal,102,present,1,flat,present
+75,Male,asymptomatic,170,203,st-t abnormality,108,absent,0,,present
+49,Male,typical angina,130,0,st-t abnormality,145,absent,3,flat,present
+51,Male,non-anginal,,339,normal,,,,,present
+60,Male,asymptomatic,142,216,normal,110,present,2.5,flat,present
+64,Female,asymptomatic,142,276,normal,140,present,1,flat,present
+58,Male,asymptomatic,132,458,normal,69,absent,1,downsloping,absent
+61,Male,asymptomatic,146,241,normal,148,present,3,downsloping,present
+67,Male,asymptomatic,160,384,st-t abnormality,130,present,0,flat,present
+62,Male,asymptomatic,135,297,normal,130,present,1,flat,present
+65,Male,asymptomatic,136,248,normal,140,present,4,downsloping,present
+63,Male,asymptomatic,130,308,normal,138,present,2,flat,present
+69,Male,asymptomatic,140,208,st-t abnormality,140,present,2,,present
+51,Male,asymptomatic,,227,st-t abnormality,,,,,absent
+62,Male,asymptomatic,158,210,normal,112,present,3,downsloping,present
+55,Male,non-anginal,,245,st-t abnormality,,,,,present
+75,Male,asymptomatic,136,225,normal,112,present,3,flat,present
+40,Male,non-anginal,106,240,normal,80,present,0,,absent
+67,Male,asymptomatic,120,0,normal,150,absent,1.5,downsloping,present
+58,Male,asymptomatic,110,198,normal,110,absent,0,,present
+60,Male,asymptomatic,,195,normal,,,,,absent
+63,Male,asymptomatic,160,267,st-t abnormality,88,present,2,,present
+35,Male,non-anginal,,161,st-t abnormality,,,,,absent
+62,Male,typical angina,112,258,st-t abnormality,150,present,,,present
+43,Male,asymptomatic,122,0,normal,120,absent,0.5,upsloping,present
+63,Male,non-anginal,130,0,st-t abnormality,160,absent,3,flat,absent
+68,Male,non-anginal,150,195,normal,132,absent,0,,present
+65,Male,asymptomatic,150,235,normal,120,present,1.5,flat,present
+48,Male,non-anginal,102,0,st-t abnormality,110,present,1,downsloping,present
+63,Male,asymptomatic,96,305,st-t abnormality,121,present,1,upsloping,present
+64,Male,asymptomatic,130,223,st-t abnormality,128,absent,0.5,flat,absent
+61,Male,asymptomatic,120,282,st-t abnormality,135,present,4,downsloping,present
+50,Male,asymptomatic,144,349,lv hypertrophy,120,present,1,upsloping,present
+59,Male,asymptomatic,124,,normal,117,present,1,flat,present
+55,Male,asymptomatic,150,160,st-t abnormality,150,absent,0,,absent
+45,Male,non-anginal,,236,normal,,,,,absent
+65,Male,asymptomatic,,312,lv hypertrophy,,,,,present
+61,Male,atypical angina,,283,normal,,,,,absent
+49,Male,non-anginal,,142,normal,,,,,present
+72,Male,asymptomatic,,211,normal,,,,,present
+50,Male,asymptomatic,,218,normal,,,,,present
+64,Male,asymptomatic,,306,st-t abnormality,,,,,present
+55,Male,asymptomatic,116,186,st-t abnormality,102,absent,0,,present
+63,Male,asymptomatic,110,252,st-t abnormality,140,present,2,flat,present
+59,Male,asymptomatic,125,222,normal,135,present,2.5,downsloping,present
+56,Male,asymptomatic,,0,lv hypertrophy,,,,,present
+62,Male,non-anginal,,0,st-t abnormality,,,,,present
+74,Male,asymptomatic,150,258,st-t abnormality,130,present,4,downsloping,present
+54,Male,asymptomatic,130,202,normal,112,present,2,flat,present
+57,Male,asymptomatic,110,197,lv hypertrophy,100,absent,0,,absent
+62,Male,non-anginal,,204,st-t abnormality,,,,,present
+76,Male,non-anginal,104,,lv hypertrophy,120,absent,3.5,downsloping,present
+54,Female,asymptomatic,138,274,normal,105,present,1.5,flat,present
+70,Male,asymptomatic,170,192,st-t abnormality,129,present,3,downsloping,present
+61,Female,atypical angina,140,298,normal,120,present,0,,absent
+48,Male,asymptomatic,,272,st-t abnormality,,,,,absent
+48,Male,non-anginal,132,220,st-t abnormality,162,absent,0,,present
+61,Male,typical angina,142,200,st-t abnormality,100,absent,1.5,downsloping,present
+66,Male,asymptomatic,112,261,normal,140,absent,1.5,upsloping,present
+68,Male,typical angina,,181,st-t abnormality,,,,,absent
+55,Male,asymptomatic,172,260,normal,73,absent,2,,present
+62,Male,non-anginal,120,220,lv hypertrophy,86,absent,0,,absent
+71,Male,non-anginal,,221,normal,,,,,present
+74,Male,typical angina,,216,normal,,,,,present
+53,Male,non-anginal,155,175,st-t abnormality,160,absent,,,absent
+58,Male,non-anginal,150,219,st-t abnormality,118,present,0,,present
+75,Male,asymptomatic,160,310,normal,112,present,2,downsloping,absent
+56,Male,non-anginal,,208,st-t abnormality,,,,,present
+58,Male,non-anginal,,232,st-t abnormality,,,,,present
+64,Male,asymptomatic,134,273,normal,102,present,4,downsloping,present
+54,Male,non-anginal,,203,st-t abnormality,,,,,absent
+54,Male,atypical angina,,182,st-t abnormality,,,,,absent
+59,Male,asymptomatic,140,274,normal,154,present,2,flat,absent
+55,Male,asymptomatic,,204,st-t abnormality,,,,,present
+57,Male,asymptomatic,144,270,st-t abnormality,160,present,2,flat,present
+61,Male,asymptomatic,,292,st-t abnormality,,,,,present
+41,Male,asymptomatic,150,171,normal,128,present,1.5,flat,absent
+71,Male,asymptomatic,130,221,st-t abnormality,115,present,0,,present
+38,Male,asymptomatic,110,289,normal,105,present,1.5,downsloping,present
+55,Male,asymptomatic,158,217,normal,110,present,2.5,flat,present
+56,Male,asymptomatic,128,223,st-t abnormality,119,present,2,downsloping,present
+69,Male,asymptomatic,,,normal,,,,,present
+64,Male,asymptomatic,150,193,st-t abnormality,135,present,0.5,flat,present
+72,Male,asymptomatic,160,,lv hypertrophy,130,absent,1.5,,present
+69,Male,asymptomatic,,210,st-t abnormality,,,,,present
+56,Male,asymptomatic,,282,normal,,,,,present
+62,Male,asymptomatic,,170,st-t abnormality,120,present,3,,present
+67,Male,asymptomatic,,369,normal,,,,,present
+57,Male,asymptomatic,156,173,lv hypertrophy,119,present,3,downsloping,present
+69,Male,asymptomatic,,289,st-t abnormality,,,,,present
+51,Male,asymptomatic,,,lv hypertrophy,,,,,present
+48,Male,asymptomatic,140,,normal,159,present,1.5,upsloping,present
+69,Male,asymptomatic,122,216,lv hypertrophy,84,present,0,,present
+69,Male,non-anginal,,271,lv hypertrophy,,,,,absent
+64,Male,asymptomatic,,244,st-t abnormality,,,,,present
+57,Male,atypical angina,180,285,st-t abnormality,120,absent,0.8,,present
+53,Male,asymptomatic,124,243,normal,122,present,2,flat,present
+37,Male,non-anginal,118,240,lv hypertrophy,165,absent,1,flat,absent
+67,Male,asymptomatic,140,219,st-t abnormality,122,present,2,flat,present
+74,Male,non-anginal,140,237,normal,94,absent,0,,present
+63,Male,atypical angina,,165,st-t abnormality,,,,,absent
+58,Male,asymptomatic,100,213,st-t abnormality,110,absent,0,,absent
+61,Male,asymptomatic,190,287,lv hypertrophy,150,present,2,downsloping,present
+64,Male,asymptomatic,130,258,lv hypertrophy,130,absent,0,,present
+58,Male,asymptomatic,160,256,lv hypertrophy,113,present,1,upsloping,present
+60,Male,asymptomatic,130,186,lv hypertrophy,140,present,0.5,flat,present
+57,Male,asymptomatic,122,264,lv hypertrophy,100,absent,0,,present
+55,Male,non-anginal,,,st-t abnormality,,,,,absent
+55,Male,asymptomatic,120,226,lv hypertrophy,127,present,1.7,downsloping,present
+56,Male,asymptomatic,130,203,normal,98,absent,1.5,flat,present
+57,Male,asymptomatic,130,207,st-t abnormality,96,present,1,flat,absent
+61,Male,non-anginal,,284,normal,,,,,present
+61,Male,non-anginal,120,337,normal,98,present,0,,present
+58,Male,non-anginal,150,219,st-t abnormality,118,present,0,,present
+74,Male,asymptomatic,155,310,normal,112,present,1.5,downsloping,present
+68,Male,non-anginal,134,254,normal,151,present,0,,absent
+51,Female,asymptomatic,114,258,lv hypertrophy,96,absent,1,upsloping,absent
+62,Male,asymptomatic,160,254,st-t abnormality,108,present,3,flat,present
+53,Male,asymptomatic,144,300,st-t abnormality,128,present,1.5,flat,present
+62,Male,asymptomatic,158,170,st-t abnormality,138,present,0,,present
+46,Male,asymptomatic,134,310,normal,126,absent,0,,present
+54,Female,asymptomatic,127,333,st-t abnormality,154,absent,0,,present
+62,Male,typical angina,,139,st-t abnormality,,,,,absent
+55,Male,asymptomatic,122,223,st-t abnormality,100,absent,0,,present
+58,Male,asymptomatic,,385,lv hypertrophy,,,,,absent
+62,Male,atypical angina,120,254,lv hypertrophy,93,present,0,,present
